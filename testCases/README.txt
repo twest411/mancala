@@ -1,0 +1,1 @@
+This file contains our test cases for the third part of the project. Why is there a readme here? because git wont find this stupid file and I think its cause its empty, so till I have a better solution you get this and your happy with it. 
