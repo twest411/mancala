@@ -1,3 +1,5 @@
+**CREATED AS A GROUP PROJECT**
+
 p5-mancala
 
 Mancala is an awesome game about moving pieces in a circle and hoping they stop in the right place for
